@@ -2,7 +2,7 @@
 
 ### 🧬 Computational Chemist | DFT Enthusiast | MLIP Developer
 
-> *"Automating nature calculated of eigenstates and eigenvalues"*
+> *"Streamlining nature’s blueprint: Calculating the quantum dance of eigenstates and eigenvalues on autopilot"*
 
 I specialise in **Density Functional Theory (DFT)** and **Machine Learning Interatomic Potentials (MLIPs)**, working at the intersection of quantum chemistry and artificial intelligence to solve complex materials science problems.
 
@@ -12,7 +12,7 @@ Current Focus 🎯
 
 
 Technical Arsenal 🛠️
-- **Quantum Chemistry**: DFT calculations, electronic structure theory
+- **Quantum Chemistry**: Electronic structure theory, Solid State Chemistry
 - **Computational Tools**: pymatgen, ASE, VASP, Quantum ESPRESSO, Gaussian, MACE
 
 ### 🧠 Philosophy
