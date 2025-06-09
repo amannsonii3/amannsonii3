@@ -2,7 +2,7 @@
 
 ### 🧬 Computational Chemist | DFT Enthusiast | MLIP Developer
 
-> *"Automating all of nature calculated through eigenstates and eigenvalues"*
+> *"Automating nature calculated of eigenstates and eigenvalues"*
 
 I specialise in **Density Functional Theory (DFT)** and **Machine Learning Interatomic Potentials (MLIPs)**, working at the intersection of quantum chemistry and artificial intelligence to solve complex materials science problems.
 
