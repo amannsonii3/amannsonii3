@@ -8,7 +8,7 @@ I specialise in **Density Functional Theory (DFT)**, **Machine Learning Interato
 
 
 Current Focus 🎯 
-- Interpreting reactivity as a from its wavefunction to create novel catalysts.
+- Interpreting reactivity from its wavefunction to create novel catalysts.
 
 
 Technical Arsenal 🛠️
