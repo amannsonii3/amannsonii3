@@ -4,7 +4,7 @@
 
 > *"Learning to describe nature from the of quantum dance of eigenstates and eigenvalues"*
 
-I specialise in **Density Functional Theory (DFT)**, **Machine Learning Interatomic Potentials (MLIPs)** and **Generative modelling**. Am working at the intersection of quantum chemistry and artificial intelligence to solve the inverse design problems.
+I specialise in **Density Functional Theory (DFT)**, **Machine Learning Interatomic Potentials (MLIPs)** and **Generative modelling**. Am working at the intersection of quantum chemistry and artificial intelligence to solve the inverse design problem.
 
 
 Current Focus 🎯 
