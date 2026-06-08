@@ -8,18 +8,16 @@ I specialise in **Density Functional Theory (DFT)**, **Machine Learning Interato
 
 
 Current Focus 🎯 
-- Investigating the role of the "**_attention_**" mechanism in interpreting our physical reality.
+- Interpreting reactivity as a from its wavefunction to create novel catalysts.
 
 
 Technical Arsenal 🛠️
 - **Quantum Chemistry**: Electronic structure theory, Statistical Thermodynamics, Molecular Dynamics
-- **Computational Tools**: pymatgen, ASE, VASP, Quantum ESPRESSO, ORCA, Gaussian, LAMMPS, MLIPs
+- **Computational Tools**: pymatgen, ASE, Sella, VASP, Quantum ESPRESSO, ORCA, Gaussian, LAMMPS, MLIPs
 
 ### 🧠 Philosophy
 
-Does nature truly have exponential compute or is there an elegant shortcut to resolving it?
-
-> *Adaptable by nature, driven by curiosity, powered by quantum.*
+> Does nature truly have exponential compute or there exists an elegant solution to resolving it?
 
 ---
 
