@@ -2,9 +2,9 @@
 
 ### 🧬 Computational Chemist | DFT Enthusiast | MLIP Developer
 
-> *"Streamlining nature’s blueprint: Calculating the quantum dance of eigenstates and eigenvalues on autopilot"*
+> *"Learning to describe nature from the of quantum dance of eigenstates and eigenvalues"*
 
-I specialise in **Density Functional Theory (DFT)** and **Machine Learning Interatomic Potentials (MLIPs)**, working at the intersection of quantum chemistry and artificial intelligence to solve complex materials science problems.
+I specialise in **Density Functional Theory (DFT)**, **Machine Learning Interatomic Potentials (MLIPs)** and **Generative modelling**. Am working at the intersection of quantum chemistry and artificial intelligence to solve the inverse design problems.
 
 
 Current Focus 🎯 
@@ -12,20 +12,16 @@ Current Focus 🎯
 
 
 Technical Arsenal 🛠️
-- **Quantum Chemistry**: Electronic structure theory, Solid State Chemistry
-- **Computational Tools**: pymatgen, ASE, VASP, Quantum ESPRESSO, Gaussian, MACE
+- **Quantum Chemistry**: Electronic structure theory, Statistical Thermodynamics, Molecular Dynamics
+- **Computational Tools**: pymatgen, ASE, VASP, Quantum ESPRESSO, ORCA, Gaussian, LAMMPS, MLIPs
 
 ### 🧠 Philosophy
 
-I believe in the power of computational science to unlock nature's secrets, where every eigenstate tells a story, and every eigenvalue holds a key to understanding our world at the atomic level.
+Does nature truly have exponential compute or is there an elegant shortcut to resolving it?
 
-> *Adaptable by nature, driven by curiosity, powered by quantum mechanics.*
+> *Adaptable by nature, driven by curiosity, powered by quantum.*
 
 ---
-
-### 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amannsonii3&show_icons=true&theme=radical)
 
 ### 🤝 Let's Connect
 
